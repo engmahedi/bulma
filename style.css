@@ -1,0 +1,8 @@
+.navbar-link.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover{
+  background-color: #3e8ed0;
+}
+
+#banner{
+  background-color: #f9f9ff;
+}
+
